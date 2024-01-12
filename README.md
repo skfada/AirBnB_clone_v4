@@ -154,12 +154,12 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time.
 
 ## Authors
-Solomon Adamu - [Github](https://github.com/skfada)
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Okungbowa Godspower - [Github](https://github.com/OkungbowaGodspower ) / [Twitter](https://twitter.com/ml_geepee)
+Solomon Adamu - [Github](https://github.com/skfada) <br />
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico) <br />
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang) <br />
+Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10) <br />
+David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave) <br />
+Okungbowa Godspower - [Github](https://github.com/OkungbowaGodspower ) / [Twitter](https://twitter.com/ml_geepee) <br />
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection.
