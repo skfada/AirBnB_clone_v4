@@ -1,4 +1,4 @@
-// perfiorm functiions biased on inpiut checikbox
+// perform functions based on inpiut checkbox
 $(function () {
   let clicked = [];
   let temp = [];
